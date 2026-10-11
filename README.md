@@ -2,6 +2,8 @@
 
 ### Sentiment and on-chain analyzer for perpetual trading on Aptos
 
+🏆 Part of **Sentenex**, which **won $2,000 at the Aptos Hackathon**
+
 ![Python](https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?logo=fastapi&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/GPT--4o-412991?logo=openai&logoColor=white)
